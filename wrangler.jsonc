@@ -1,0 +1,14 @@
+{
+  "name": "tbod-tycoon-but-one-dropper-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "tbod-tycoon-but-one-dropper.wiki",
+      "custom_domain": true
+    }
+  ]
+}
