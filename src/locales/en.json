@@ -6,7 +6,17 @@
     "description": "TBOD Tycoon But One Dropper Wiki provides Roblox tycoon guides, upgrade tips, gameplay strategies, codes, and everything players need to build their ultimate factory.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "guide": "Guide",
+    "codes": "Codes",
+    "progression": "Progression",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "secrets": "Secrets",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "TBOD Tycoon But One Dropper Wiki - Codes & Guide",
@@ -365,7 +375,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -401,5 +410,29 @@
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "tbod tycoon but one dropper Guides & Walkthroughs",
+    "overviewDescription": "Comprehensive beginner walkthroughs, expert strategies, and essential progression tips for tbod tycoon but one dropper."
+  },
+  "codes": {
+    "overviewTitle": "tbod tycoon but one dropper Codes & Rewards",
+    "overviewDescription": "Explore all working promo codes, free rewards, and redemption steps for tbod tycoon but one dropper."
+  },
+  "progression": {
+    "overviewTitle": "tbod tycoon but one dropper Progression & Rebirths",
+    "overviewDescription": "Master rebirth milestones, bit multipliers, upgrades, and optimal progression routes in tbod tycoon but one dropper."
+  },
+  "mechanics": {
+    "overviewTitle": "tbod tycoon but one dropper Game Mechanics",
+    "overviewDescription": "In-depth breakdown of single-dropper mechanics, conveyor multipliers, merchant timings, and tycoon automation."
+  },
+  "items": {
+    "overviewTitle": "tbod tycoon but one dropper Items & Upgrades",
+    "overviewDescription": "Complete catalog of droppers, blocks, items, multipliers, and store gear in tbod tycoon but one dropper."
+  },
+  "secrets": {
+    "overviewTitle": "tbod tycoon but one dropper Secrets & Hidden Badges",
+    "overviewDescription": "Discover secret badge locations, Easter eggs, hidden rooms, and mystery rewards across tbod tycoon but one dropper."
   }
 }
