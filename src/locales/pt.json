@@ -1,1 +1,438 @@
-{}
+{
+  "site": {
+    "name": "TBOD Tycoon But One Dropper Wiki",
+    "shortName": "TBOD Tycoon But One Dropper",
+    "tagline": "Guias e Códigos de Roblox One Dropper Tycoon Simulator",
+    "description": "A TBOD Tycoon But One Dropper Wiki oferece guias de tycoon no Roblox, dicas de melhorias, estratégias de jogo, códigos e tudo o que você precisa para construir sua fábrica definitiva.",
+    "legalNotice": "Wiki não oficial criada por fãs. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "guide": "Guias",
+    "codes": "Códigos",
+    "progression": "Progressão",
+    "mechanics": "Mecânicas",
+    "items": "Itens",
+    "secrets": "Segredos",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "TBOD Tycoon But One Dropper Wiki - Códigos e Guias",
+      "description": "A TBOD Tycoon But One Dropper Wiki oferece guias de tycoon no Roblox, dicas de melhorias, estratégias de jogo, códigos e tudo o que você precisa para construir sua fábrica definitiva."
+    },
+    "hero": {
+      "eyebrow": "Simulador de Tycoon Roblox de Dropper Único",
+      "title": "TBOD Tycoon But One Dropper Wiki",
+      "description": "TBOD Tycoon But One Dropper é um jogo de tycoon no Roblox onde os jogadores constroem uma fábrica poderosa usando apenas um dropper, aprimoram sistemas de produção, ganham dinheiro e expandem sua base.",
+      "stats": [
+        "Simulador Tycoon de Roblox",
+        "Sistema Central de 1 Dropper",
+        "Melhorias de Fábrica",
+        "Códigos Ativos e Funcionando"
+      ],
+      "primaryCta": "Guia para Iniciantes",
+      "secondaryCta": "Jogar no Roblox",
+      "tertiaryCta": "Códigos Ativos",
+      "videoLabel": "Mídias Oficiais"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Navegar por Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em TBOD Tycoon But One Dropper",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Domine o ciclo de fábrica com dropper único, configure esteiras rolantes e colete seus primeiros ganhos."
+        },
+        {
+          "number": "2",
+          "title": "Farm de Dinheiro e Bits",
+          "description": "Otimize linhas de processamento de minérios, acúmulo de multiplicadores e coleta de Bits para acelerar a renda."
+        },
+        {
+          "number": "3",
+          "title": "Melhorias e Ciclo de Renascimento",
+          "description": "Compre melhoradores de produção poderosos e ative renascimentos (rebirths) para obter multiplicadores permanentes."
+        },
+        {
+          "number": "4",
+          "title": "Resgatar Códigos Grátis",
+          "description": "Resgate códigos promocionais ativos para obter bônus instantâneos de dinheiro e acelerar o início do jogo."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta",
+      "quickLinks": [
+        "Guia One Dropper",
+        "Melhores Melhorias",
+        "Rebirth Rápido",
+        "Códigos Ativos"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Tudo o que você precisa desde a primeira queda de minério até dominar ciclos de melhoradores e a progressão inicial.",
+          "href": "/guide/tbod-tycoon-but-one-dropper-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos Ativos",
+          "description": "Todos os códigos promocionais válidos com bônus em dinheiro e multiplicadores para acelerar sua fábrica.",
+          "href": "/codes/tbod-tycoon-but-one-dropper-codes"
+        },
+        {
+          "badge": "Estratégia",
+          "title": "Guia de Melhorias",
+          "description": "Análise completa de melhoradores, ordem de multiplicadores e rotas ideais de esteiras rolantes.",
+          "href": "/progression/tbod-tycoon-but-one-dropper-upgrades"
+        },
+        {
+          "badge": "Prestígio",
+          "title": "Guia de Renascimento",
+          "description": "Descubra o momento ideal, os melhores investimentos em vantagens e layouts para ciclos rápidos de renascimento.",
+          "href": "/guide/tbod-tycoon-but-one-dropper-rebirth-guide"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é TBOD Tycoon But One Dropper?",
+      "paragraphs": [
+        "TBOD Tycoon But One Dropper é um inovador jogo de simulação de fábrica no Roblox que transforma as mecânicas clássicas de tycoon. Em vez de espalhar dezenas de droppers idênticos pelo seu terreno, você depende de um único dropper principal, tendo o desafio de maximizar cada minério por meio de rotas inteligentes de esteiras, sequência de melhoradores e circuitos de multiplicadores.",
+        "Conforme sua fábrica cresce, você desbloqueia equipamentos avançados de processamento, negocia com mercadores, ganha Bits e Essência, e ativa renascimentos para multiplicar seus lucros exponencialmente. Seja para alcançar o topo da tabela de classificação ou encontrar emblemas secretos, nossa wiki oferece guias completos para otimizar sua produção."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Simulador Tycoon"
+        },
+        {
+          "label": "Droppers",
+          "value": "1 Dropper Único"
+        },
+        {
+          "label": "Moedas",
+          "value": "Dinheiro e Bits"
+        },
+        {
+          "label": "Progressão",
+          "value": "Multiplicadores"
+        },
+        {
+          "label": "Prestígio",
+          "value": "Níveis de Rebirth"
+        }
+      ],
+      "cta": "Explorar Todos os Guias"
+    },
+    "explore": {
+      "title": "Explorar a TBOD Tycoon But One Dropper Wiki",
+      "description": "Domine sua fábrica de dropper único com guias essenciais de progressão, códigos ativos, análises de melhoradores e estratégias ideais de renascimento.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de TBOD Tycoon But One Dropper",
+          "description": "Este módulo reúne todos os códigos ativos do jogo, recompensas e passos para resgate. Jogadores em busca de bônus gratuitos ou impulsos de progresso encontram aqui listas sempre atualizadas.",
+          "displayType": "code-cards",
+          "href": "/codes/tbod-tycoon-but-one-dropper-codes",
+          "highlights": [
+            {
+              "label": "RELEASE",
+              "detail": "Garante bônus de dinheiro inicial para construção da fábrica no início",
+              "badge": "Ativo"
+            },
+            {
+              "label": "DROPPER",
+              "detail": "Desbloqueia impulso multiplicador 2x de valor de minério por 15 minutos",
+              "badge": "Ativo"
+            },
+            {
+              "label": "SQUARED",
+              "detail": "Concede 500 de dinheiro bônus e aumento temporário de velocidade",
+              "badge": "Ativo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia para Iniciantes de TBOD Tycoon But One Dropper",
+          "description": "Um guia inicial explicando o ciclo básico de tycoon, como o sistema de dropper único funciona e os primeiros passos recomendados para avançar com eficiência.",
+          "displayType": "step-by-step",
+          "href": "/guide/tbod-tycoon-but-one-dropper-beginner-guide",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Ative seu dropper primário único e estabeleça uma linha direta até a fornalha inicial."
+            },
+            {
+              "label": "2",
+              "detail": "Posicione somadores de valor fixo logo após o dropper para elevar o valor base do minério."
+            },
+            {
+              "label": "3",
+              "detail": "Instale portões multiplicadores percentuais e circuitos de esteiras para multiplicar os ganhos."
+            },
+            {
+              "label": "4",
+              "detail": "Reinvista o dinheiro em velocidade de drop e portões de melhoria até atingir a meta de renascimento."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia de Melhorias de TBOD Tycoon But One Dropper",
+          "description": "Esta seção detalha melhorias importantes, melhoradores e escolhas de progressão ao longo do jogo para acelerar receitas e desbloquear novas mecânicas.",
+          "displayType": "tier-grid",
+          "href": "/progression/tbod-tycoon-but-one-dropper-upgrades",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Portões Prismáticos e Circuitos Multipassagem proporcionando multiplicação exponencial de valor."
+            },
+            {
+              "label": "A",
+              "detail": "Câmaras Térmicas e Feixes Ionizantes adicionando grandes bônus fixos e de queima."
+            },
+            {
+              "label": "B",
+              "detail": "Polidores Iniciais e Esteiras Rápidas fornecendo multiplicadores consistentes no início."
+            },
+            {
+              "label": "C",
+              "detail": "Pastilhas de Fricção Básicas e Calhas de Ferro essenciais apenas para o início da fábrica."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de Renascimento de TBOD Tycoon But One Dropper",
+          "description": "Um guia focado na progressão por renascimentos (rebirths), quando renascer e como os sistemas de prestígio aceleram o crescimento a longo prazo.",
+          "displayType": "step-by-step",
+          "href": "/guide/tbod-tycoon-but-one-dropper-rebirth-guide",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Atinja o saldo necessário na carteira e interrompa gastos em itens não essenciais."
+            },
+            {
+              "label": "2",
+              "detail": "Confirme o reinício de renascimento para desbloquear multiplicadores permanentes e fichas de prestígio."
+            },
+            {
+              "label": "3",
+              "detail": "Reconstrua o trajeto inicial de esteiras rapidamente aproveitando o valor base superior dos minérios."
+            },
+            {
+              "label": "4",
+              "detail": "Desbloqueie melhoradores exclusivos de renascimento para acelerar ciclos de prestígio em menos de um minuto."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de Dinheiro de TBOD Tycoon But One Dropper",
+          "description": "Este módulo cobre métodos de coleta de dinheiro, estratégias de geração de capital e técnicas para maximizar o rendimento por minério.",
+          "displayType": "card-list",
+          "href": "/progression/tbod-tycoon-but-one-dropper-money",
+          "highlights": [
+            {
+              "label": "Vertical",
+              "detail": "Concentre-se exclusivamente na densidade de valor por minério em vez de expandir a fábrica horizontalmente."
+            },
+            {
+              "label": "Sequência",
+              "detail": "Direcione minérios por somadores fixos primeiro, seguidos por multiplicadores percentuais depois."
+            },
+            {
+              "label": "Circuitos",
+              "detail": "Implemente trajetos de retorno para passar minerais valiosos várias vezes pelos mesmos processadores."
+            },
+            {
+              "label": "Reinvestir",
+              "detail": "Gaste imediatamente o capital acumulado no próximo nível de melhorador para acelerar o efeito composto."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de Gamepasses de TBOD Tycoon But One Dropper",
+          "description": "Um guia sobre passes de jogo, bônus premium e custo-benefício de melhorias pagas em comparação com a progressão gratuita.",
+          "displayType": "card-list",
+          "href": "/items/tbod-tycoon-but-one-dropper-items",
+          "highlights": [
+            {
+              "label": "AutoDrop",
+              "detail": "Automatiza a queda de minérios gerando renda passiva contínua durante a configuração da fábrica."
+            },
+            {
+              "label": "DoubleCash",
+              "detail": "Dobra permanentemente todos os ganhos da fornalha em partidas normais e de renascimento."
+            },
+            {
+              "label": "SpeedBoost",
+              "detail": "Acelera a velocidade dos motores das esteiras para reduzir drasticamente o tempo de trajeto do minério."
+            },
+            {
+              "label": "VIPPass",
+              "detail": "Concede tags cosméticas exclusivas no chat e dinheiro extra inicial a cada nova sessão."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guia de Atualizações de TBOD Tycoon But One Dropper",
+          "description": "Este módulo reúne notas de atualização, novidades e mudanças importantes feitas pelos desenvolvedores para manter os jogadores informados.",
+          "displayType": "code-cards",
+          "href": "/mechanics/tbod-tycoon-but-one-dropper-tycoon",
+          "highlights": [
+            {
+              "label": "v1.2.0",
+              "detail": "Adicionou mecânicas de expansão TBOD 2, novos circuitos de melhoradores e balanceamento geral.",
+              "badge": "Mais Recente"
+            },
+            {
+              "label": "v1.1.0",
+              "detail": "Incluiu emblemas secretos, barraquinhas de mercadores e recompensas na moeda Bits.",
+              "badge": "Atualização"
+            },
+            {
+              "label": "v1.0.0",
+              "detail": "Lançamento inicial com sistema de fábrica de dropper único e ciclo de prestígio por renascimento.",
+              "badge": "Lançamento"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guia de Controles de TBOD Tycoon But One Dropper",
+          "description": "Uma referência simples sobre controles, comandos de navegação e interações básicas para apoiar jogadores iniciantes.",
+          "displayType": "code-cards",
+          "href": "/guide/tbod-tycoon-but-one-dropper-tips",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "Movimente seu personagem pelo lote da fábrica e interaja com botões."
+            },
+            {
+              "label": "Espaço",
+              "detail": "Pule sobre esteiras rolantes e máquinas de processamento elevadas."
+            },
+            {
+              "label": "Shift",
+              "detail": "Ative a corrida para se locomover mais rápido por fábricas expandidas."
+            },
+            {
+              "label": "Clique",
+              "detail": "Interaja com placas de compra, menu de configurações e resgate de códigos."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as dúvidas mais comuns sobre TBOD Tycoon But One Dropper.",
+      "items": [
+        {
+          "question": "O que é TBOD Tycoon But One Dropper?",
+          "answer": "TBOD Tycoon But One Dropper é um jogo de simulação de fábrica no Roblox onde os jogadores usam apenas um dropper principal, exigindo circuitos inteligentes de esteiras e acúmulo de melhoradores para escalar lucros."
+        },
+        {
+          "question": "Como resgatar códigos em TBOD Tycoon But One Dropper?",
+          "answer": "Para resgatar códigos em TBOD Tycoon But One Dropper, clique no ícone de Códigos no menu principal, digite um código promocional ativo e confirme para receber bônus de dinheiro e multiplicadores."
+        },
+        {
+          "question": "Quando devo renascer (rebirth) em TBOD Tycoon But One Dropper?",
+          "answer": "Você deve renascer em TBOD Tycoon But One Dropper assim que atingir a quantia necessária em dinheiro para obter multiplicadores permanentes e liberar níveis mais avançados de melhoradores."
+        },
+        {
+          "question": "Qual é a melhor ordem inicial de melhorias em TBOD Tycoon But One Dropper?",
+          "answer": "Em TBOD Tycoon But One Dropper, coloque melhoradores de valor fixo logo após o dropper inicial antes de direcionar o minério para multiplicadores percentuais para maximizar o rendimento composto."
+        },
+        {
+          "question": "Como funcionam os Bits em TBOD Tycoon But One Dropper?",
+          "answer": "Os Bits em TBOD Tycoon But One Dropper são uma moeda especial de prestígio obtida por marcos e trocas com mercadores, usada para comprar melhorias permanentes de conta e máquinas exclusivas."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar TBOD Tycoon But One Dropper?",
+      "description": "Da configuração inicial de dropper único até linhas de produção altamente automatizadas, nossa wiki comunitária oferece guias gratuitos e atualizados.",
+      "primary": "Ler o Guia de Iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leituras Relacionadas",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídias Oficiais",
+    "home": "Início",
+    "noGuidesAvailable": "Nenhum guia disponível no momento. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "TBOD Tycoon But One Dropper Wiki",
+    "about": "A TBOD Tycoon But One Dropper Wiki é um portal independente criado por fãs com guias de progressão, melhorias de droppers, estratégias de automação e códigos para jogadores de Roblox.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 TBOD Tycoon But One Dropper Wiki. Não afiliado ao Roblox ou aos desenvolvedores do jogo.",
+    "description": "Jogo de tycoon no Roblox onde os jogadores constroem uma fábrica poderosa a partir de um único dropper.",
+    "playGame": "Jogar no Roblox",
+    "officialDiscord": "Discord do Roblox",
+    "officialYoutube": "YouTube do Roblox",
+    "vvBuilder": "Planejador Tycoon",
+    "beginnerGuide": "Guia para Iniciantes",
+    "raceGuides": "Guias de Melhorias",
+    "bossGuides": "Guias de Chefes",
+    "buildGuide": "Guia de Construção",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  },
+  "guide": {
+    "overviewTitle": "Guias e Detonados de TBOD Tycoon But One Dropper",
+    "overviewDescription": "Detonados completos para iniciantes, estratégias avançadas e dicas essenciais de progressão em TBOD Tycoon But One Dropper."
+  },
+  "codes": {
+    "overviewTitle": "Códigos e Recompensas de TBOD Tycoon But One Dropper",
+    "overviewDescription": "Explore todos os códigos promocionais válidos, recompensas gratuitas e etapas de resgate em TBOD Tycoon But One Dropper."
+  },
+  "progression": {
+    "overviewTitle": "Progressão e Renascimentos de TBOD Tycoon But One Dropper",
+    "overviewDescription": "Domine marcos de renascimento, multiplicadores de bits, melhorias e as rotas ideais de avanço em TBOD Tycoon But One Dropper."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Jogo de TBOD Tycoon But One Dropper",
+    "overviewDescription": "Análise aprofundada da mecânica de dropper único, multiplicadores de esteiras rolantes, tempos de mercadores e automação."
+  },
+  "items": {
+    "overviewTitle": "Itens e Melhorias de TBOD Tycoon But One Dropper",
+    "overviewDescription": "Catálogo completo de droppers, blocos, itens, multiplicadores e equipamentos de loja em TBOD Tycoon But One Dropper."
+  },
+  "secrets": {
+    "overviewTitle": "Segredos e Emblemas Ocultos de TBOD Tycoon But One Dropper",
+    "overviewDescription": "Descubra localizações de emblemas secretos, easter eggs, salas secretas e recompensas misteriosas em TBOD Tycoon But One Dropper."
+  }
+}
