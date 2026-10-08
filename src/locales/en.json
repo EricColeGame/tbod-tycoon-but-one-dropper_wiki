@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "TBOD Tycoon But One Dropper Wiki",
+    "shortName": "TBOD Tycoon But One Dropper",
+    "tagline": "Roblox One Dropper Tycoon Simulator Guides & Codes",
+    "description": "TBOD Tycoon But One Dropper Wiki provides Roblox tycoon guides, upgrade tips, gameplay strategies, codes, and everything players need to build their ultimate factory.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,21 +26,21 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "TBOD Tycoon But One Dropper Wiki - Codes & Guide",
+      "description": "TBOD Tycoon But One Dropper Wiki provides Roblox tycoon guides, upgrade tips, gameplay strategies, codes, and everything players need to build their ultimate factory."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Roblox One Dropper Tycoon Simulator",
+      "title": "TBOD Tycoon But One Dropper Wiki",
+      "description": "TBOD Tycoon But One Dropper is a Roblox tycoon game where players build a powerful factory using a single dropper, upgrade production systems, earn money, and expand their tycoon base.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Roblox Tycoon Simulator",
+        "1 Dropper Core System",
+        "Factory Upgrades",
+        "Active Working Codes"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Play on Roblox",
       "tertiaryCta": "Active Codes",
       "videoLabel": "Official media"
     },
@@ -342,8 +342,8 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master TBOD Tycoon But One Dropper?",
+      "description": "From your initial single dropper setup to advanced automated tycoon production lines, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
@@ -379,19 +379,19 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "TBOD Tycoon But One Dropper Wiki",
+    "about": "TBOD Tycoon But One Dropper Wiki is an independent fan-built guide hub covering tycoon progression, dropper upgrades, automation strategies, and codes for Roblox players.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 TBOD Tycoon But One Dropper Wiki. Not affiliated with Roblox or the game creators.",
+    "description": "Roblox tycoon game where players build a powerful factory from a single dropper.",
+    "playGame": "Play on Roblox",
+    "officialDiscord": "Roblox Discord",
+    "officialYoutube": "Roblox YouTube",
+    "vvBuilder": "Tycoon Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
+    "raceGuides": "Upgrade Guides",
     "bossGuides": "Boss Guides",
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
