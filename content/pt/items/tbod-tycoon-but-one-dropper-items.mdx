@@ -115,9 +115,9 @@ Até jogadores veteranos caem em armadilhas matemáticas ao organizar suas fábr
 
 O erro mais comum nas fábricas de TBOD é aplicar bônus percentuais antes das adições fixas. A ordem matemática das operações dita que as adições devem preceder as multiplicações para maximizar o valor de saída.
 
-$$\text{Correto: } (\text{Base} + \text{Somadores Fixos}) \times \text{Multiplicadores} = \text{Rendimento Máximo}$$
+**Correto:** `(Base + Somadores Fixos) × Multiplicadores = Rendimento Máximo`
 
-$$\text{Incorreto: } (\text{Base} \times \text{Multiplicadores}) + \text{Somadores Fixos} = \text{Rendimento Subótimo}$$
+**Incorreto:** `(Base × Multiplicadores) + Somadores Fixos = Rendimento Subótimo`
 
 Considere um minério com valor base de 10. Se você passá-lo por um somador fixo de $+500$ e depois por um multiplicador de $10\times$, o pagamento final será $(10 + 500) \times 10 = 5.100$. Se você inverter essa ordem, o minério recebe $10 \times 10 = 100$, seguido de $+500$, resultando em míseras 600 moedas.
 

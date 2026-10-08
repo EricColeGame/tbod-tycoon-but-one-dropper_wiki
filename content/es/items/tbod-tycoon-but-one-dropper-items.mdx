@@ -115,9 +115,9 @@ Incluso los jugadores veteranos caen en trampas matemáticas al organizar sus f�
 
 El error más extendido en las fábricas de TBOD es aplicar aumentos porcentuales antes de las sumas fijas. El orden matemático de las operaciones dicta que las adiciones deben preceder a las multiplicaciones para maximizar el valor final.
 
-$$\text{Correcto: } (\text{Base} + \text{Sumadores fijos}) \times \text{Multiplicadores} = \text{Rendimiento máximo}$$
+**Correcto:** `(Base + Sumadores fijos) × Multiplicadores = Rendimiento máximo`
 
-$$\text{Incorrecto: } (\text{Base} \times \text{Multiplicadores}) + \text{Sumadores fijos} = \text{Rendimiento subóptimo}$$
+**Incorrecto:** `(Base × Multiplicadores) + Sumadores fijos = Rendimiento subóptimo`
 
 Imagina un mineral con un valor base de 10. Si lo pasas por un sumador fijo de $+500$ y luego por un multiplicador de $10\times$, el pago final será $(10 + 500) \times 10 = 5.100$. Si inviertes ese orden, el mineral obtiene $10 \times 10 = 100$, seguido de $+500$, resultando en unos escasos 600 de dinero.
 

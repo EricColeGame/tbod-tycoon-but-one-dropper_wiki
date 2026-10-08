@@ -115,9 +115,9 @@ Even veteran players stumble into mathematical traps when organizing their facto
 
 The most pervasive mistake in TBOD factories is applying percentage boosts before flat additions. Mathematical order of operations dictates that additions must precede multiplications to maximize output value.
 
-$$\text{Correct: } (\text{Base} + \text{Flat Adders}) \times \text{Multipliers} = \text{Maximum Output}$$
+**Correct:** `(Base + Flat Adders) × Multipliers = Maximum Output`
 
-$$\text{Incorrect: } (\text{Base} \times \text{Multipliers}) + \text{Flat Adders} = \text{Sub-optimal Yield}$$
+**Incorrect:** `(Base × Multipliers) + Flat Adders = Sub-optimal Yield`
 
 Consider an ore with a base value of 10. If you run it through a $+500$ flat adder and then a $10\times$ multiplier, the final payout is $(10 + 500) \times 10 = 5,100$. If you reverse that order, the ore receives $10 \times 10 = 100$, followed by $+500$, yielding a meager 600 currency.
 

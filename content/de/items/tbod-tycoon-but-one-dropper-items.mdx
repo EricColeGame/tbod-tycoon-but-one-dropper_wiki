@@ -37,7 +37,7 @@ In Ihren ersten Durchläufen vor dem Abschluss von Rebirths beschränkt Ihr Budg
 
 *   **Basic Iron Anvil:** Fügt jedem Schlag einen verlässlichen flachen Geldbonus hinzu. Ideal für die Platzierung direkt unter dem Hauptdropper.
 *   **Standard Heat Chamber:** Erhitzt Erze, um grundlegende thermische Tags zu aktivieren, was spätere Verarbeitungserträge verdoppelt.
-*   **Copper Polisher:** Entfernt Verunreinigungen und bietet einen frühen Multiplikator von $1{,}5\times$ bis $2\times$ ohne komplexe Förderbandrouten.
+*   **Copper Polisher:** Entfernt Verunreinigungen und bietet einen frühen Multiplikator von 1,5× bis $2\times$ ohne komplexe Förderbandrouten.
 
 ### Exponentielle Multiplikatoren für das Mid-Game
 
@@ -115,9 +115,9 @@ Selbst erfahrene Spieler tappen bei der Organisation ihrer Fabriken in mathemati
 
 Der häufigste Fehler in TBOD-Fabriken ist die Anwendung prozentualer Verstärkungen vor flachen Additionen. Die mathematische Rangfolge von Operationen schreibt vor, dass Additionen vor Multiplikationen erfolgen müssen, um den Ertrag zu maximieren.
 
-$$\text{Korrekt: } (\text{Basis} + \text{Flat-Addierer}) \times \text{Multiplikatoren} = \text{Maximaler Ertrag}$$
+**Korrekt:** `(Basis + Flat-Addierer) × Multiplikatoren = Maximaler Ertrag`
 
-$$\text{Falsch: } (\text{Basis} \times \text{Multiplikatoren}) + \text{Flat-Addierer} = \text{Suboptimaler Ertrag}$$
+**Falsch:** `(Basis × Multiplikatoren) + Flat-Addierer = Suboptimaler Ertrag`
 
 Betrachten wir ein Erz mit einem Basiswert von 10. Schicken Sie es durch einen $+500$ Flat-Addierer und anschließend durch einen $10\times$-Multiplikator, beträgt die finale Auszahlung $(10 + 500) \times 10 = 5.100$. Kehren Sie diese Reihenfolge um, erhält das Erz $10 \times 10 = 100$, gefolgt von $+500$, was magere 600 Währungseinheiten ergibt.
 
