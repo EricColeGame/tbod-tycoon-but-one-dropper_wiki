@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your tbod tycoon but one dropper Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master the single-dropper factory loop, configure conveyor belts, and collect early cash."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Money & Bits Farming",
+          "description": "Optimize ore processing lines, multiplier stacking, and Bits farming to accelerate income."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Upgrades & Rebirth Loop",
+          "description": "Purchase powerful production upgraders and trigger rebirths for permanent progression multipliers."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Redeem Free Codes",
+          "description": "Claim active promotional codes to gain instant cash boosts and speed up early progression."
         }
       ]
     },
@@ -62,237 +62,271 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "One Dropper Guide",
+        "Best Upgrades",
+        "Fast Rebirth",
+        "Active Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first drop to mastering upgrader loops and early progression.",
+          "href": "/guide/tbod-tycoon-but-one-dropper-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All working promotional codes with cash bonuses and multipliers to boost your factory.",
+          "href": "/codes/tbod-tycoon-but-one-dropper-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Strategy",
+          "title": "Upgrades Guide",
+          "description": "Complete breakdown of upgraders, multiplier sequencing, and optimal conveyor paths.",
+          "href": "/progression/tbod-tycoon-but-one-dropper-upgrades"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Prestige",
+          "title": "Rebirth Guide",
+          "description": "Learn the best timing, perk investments, and layout setups for rapid rebirth cycles.",
+          "href": "/guide/tbod-tycoon-but-one-dropper-rebirth-guide"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is TBOD Tycoon But One Dropper?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "TBOD Tycoon But One Dropper is an innovative Roblox factory simulation game that flips classic tycoon mechanics on their head. Instead of spamming dozens of identical droppers across your plot, you rely on a single primary dropper, challenging you to maximize every ore through clever conveyor routing, upgrader sequencing, and multiplier loops.",
+        "As your factory grows, you unlock advanced processing equipment, trade with merchants, earn Bits and Essence, and trigger rebirths to scale your income exponentially. Whether you are aiming for leaderboard dominance or discovering hidden badges, our wiki provides comprehensive guides to optimize your factory."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Tycoon Simulator"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Droppers",
+          "value": "1 Sole Dropper"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Currencies",
+          "value": "Cash & Bits"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Progression",
+          "value": "Multipliers"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Prestige",
+          "value": "Rebirth Tiers"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore TBOD Tycoon But One Dropper Wiki",
+      "description": "Master your single-dropper factory with essential progression guides, active codes, upgrader breakdowns, and optimal rebirth strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "TBOD Tycoon But One Dropper Codes",
+          "description": "This module covers all available game codes, rewards, and code redemption information. Players searching for free boosts or progression rewards commonly look for updated codes pages, making this a high-value SEO entry point.",
+          "displayType": "code-cards",
+          "href": "/codes/tbod-tycoon-but-one-dropper-codes",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "RELEASE",
+              "detail": "Grants starter cash bonus for early factory construction",
+              "badge": "Active"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "DROPPER",
+              "detail": "Unlocks 15-minute 2x ore value multiplier boost",
+              "badge": "Active"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "SQUARED",
+              "detail": "Awards 500 bonus cash and temporary speed surge",
+              "badge": "Active"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "TBOD Tycoon But One Dropper Beginner Guide",
+          "description": "A starter guide explaining the basic tycoon loop, how the single dropper system works, and the best early progression steps. This helps new players understand upgrades, money generation, and how to advance efficiently.",
+          "displayType": "step-by-step",
+          "href": "/guide/tbod-tycoon-but-one-dropper-beginner-guide",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Activate your sole primary dropper and establish a direct line to the starting furnace."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Place flat-value adders directly after the dropper to elevate initial ore base value."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Install percentage multiplier gates and loop utility conveyors to compound value."
+            },
+            {
+              "label": "4",
+              "detail": "Reinvest cash into drop speed and upgrader gates until hitting the rebirth threshold."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "TBOD Tycoon But One Dropper Upgrades Guide",
+          "description": "This section explains important upgrades, upgraders, and progression choices throughout the game. It targets players searching for the fastest ways to increase income and unlock new mechanics.",
           "displayType": "tier-grid",
+          "href": "/progression/tbod-tycoon-but-one-dropper-upgrades",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Prismatic Gates & Multi-Pass Loops delivering exponential value multiplication."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Thermal Chambers & Ionizing Beams adding massive flat and status-burn bonuses."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Starter Polishers & Speed Conveyors providing steady early multipliers."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Basic Friction Pads & Iron Chutes essential only for initial starting cash."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "TBOD Tycoon But One Dropper Rebirth Guide",
+          "description": "A guide focused on rebirth progression, including when to rebirth and how rebirth systems affect long-term growth. This module supports players looking for ways to reach higher leaderboard positions.",
+          "displayType": "step-by-step",
+          "href": "/guide/tbod-tycoon-but-one-dropper-rebirth-guide",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Reach required wallet balance milestone and halt spending on non-essential items."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Confirm rebirth reset to unlock permanent account multipliers and prestige tokens."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Rebuild early conveyor track rapidly using elevated baseline ore cash values."
+            },
+            {
+              "label": "4",
+              "detail": "Unlock advanced rebirth-exclusive upgraders for faster sub-minute prestige cycling."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "TBOD Tycoon But One Dropper Money Guide",
+          "description": "This module covers money farming methods, cash generation strategies, and ways to improve earnings efficiency. It targets common searches from players trying to progress faster.",
+          "displayType": "card-list",
+          "href": "/progression/tbod-tycoon-but-one-dropper-money",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Vertical",
+              "detail": "Focus exclusively on per-ore value density rather than horizontal factory sprawl."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Sequencing",
+              "detail": "Route ores through flat adders first, followed by downstream percentage multipliers."
+            },
+            {
+              "label": "Looping",
+              "detail": "Implement loop-back tracks to pass high-tier minerals through processors multiple times."
             },
             {
               "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "detail": "Immediately spend unallocated capital into the next upgrader tier to maintain compounding speed."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "TBOD Tycoon But One Dropper Gamepass Guide",
+          "description": "A guide covering available gamepasses, premium boosts, and whether paid upgrades are useful for progression. It helps users comparing free progression with optional purchases.",
+          "displayType": "card-list",
+          "href": "/items/tbod-tycoon-but-one-dropper-items",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "AutoDrop",
+              "detail": "Automates drop cycles for continuous passive income during base configuration."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "DoubleCash",
+              "detail": "Permanently doubles all furnace earnings across standard and rebirth runs."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "SpeedBoost",
+              "detail": "Accelerates conveyor motor speeds to drastically reduce ore travel latency."
+            },
+            {
+              "label": "VIPPass",
+              "detail": "Grants exclusive cosmetic nametags and starter bonus cash in every new session."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "TBOD Tycoon But One Dropper Update Guide",
+          "description": "This module collects update information, new features, and important changes from the developers. It helps returning players quickly understand what has changed in the game.",
+          "displayType": "code-cards",
+          "href": "/mechanics/tbod-tycoon-but-one-dropper-tycoon",
+          "highlights": [
+            {
+              "label": "v1.2.0",
+              "detail": "Introduced TBOD 2 expansion mechanics, new upgrader loops, and balance adjustments.",
+              "badge": "Latest"
+            },
+            {
+              "label": "v1.1.0",
+              "detail": "Added secret badges, merchant trading stalls, and Bits currency rewards.",
+              "badge": "Update"
+            },
+            {
+              "label": "v1.0.0",
+              "detail": "Initial release featuring single-dropper factory system and core rebirth prestige.",
+              "badge": "Release"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "TBOD Tycoon But One Dropper Controls Guide",
+          "description": "A simple reference section for controls, gameplay interactions, and basic mechanics. This supports beginner searches from players who want quick gameplay instructions.",
+          "displayType": "code-cards",
+          "href": "/guide/tbod-tycoon-but-one-dropper-tips",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "Move character around factory plot and interact with buttons."
+            },
+            {
+              "label": "Space",
+              "detail": "Jump over conveyor belts and elevated processing machinery."
+            },
+            {
+              "label": "Shift",
+              "detail": "Toggle sprint to traverse expanded factory layouts faster."
+            },
+            {
+              "label": "Click",
+              "detail": "Interact with purchase pads, settings menu, and code redemption."
             }
           ]
         }
@@ -300,27 +334,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about TBOD Tycoon But One Dropper.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is TBOD Tycoon But One Dropper?",
+          "answer": "TBOD Tycoon But One Dropper is a Roblox factory simulation game where players are restricted to a single primary ore dropper, requiring clever conveyor loops and upgrader stacking to scale income."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem TBOD Tycoon But One Dropper codes?",
+          "answer": "To redeem codes in TBOD Tycoon But One Dropper, click the Codes icon on the main interface, type in an active promo code, and confirm to receive free cash bonuses and multipliers."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "When should I rebirth in TBOD Tycoon But One Dropper?",
+          "answer": "You should rebirth in TBOD Tycoon But One Dropper as soon as you reach the required cash threshold to gain permanent multipliers and unlock advanced upgrader tiers."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is the best early upgrade sequence in TBOD Tycoon But One Dropper?",
+          "answer": "In TBOD Tycoon But One Dropper, install flat-value adders right after your primary dropper before routing ore through percentage multipliers to maximize compounding returns."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do Bits work in TBOD Tycoon But One Dropper?",
+          "answer": "Bits in TBOD Tycoon But One Dropper are a special prestige currency earned through milestones and merchant exchanges, used to purchase permanent account upgrades and special machines."
         }
       ]
     },
