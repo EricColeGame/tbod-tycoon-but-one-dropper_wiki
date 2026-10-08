@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "TBOD Tycoon But One Dropper Wiki",
+  shortName: "TBOD Tycoon But One Dropper",
+  logoText: "TBOD",
+  tagline: "Roblox One Dropper Tycoon Simulator Guides & Codes",
+  description: "TBOD Tycoon But One Dropper Wiki provides Roblox tycoon guides, upgrade tips, gameplay strategies, codes, and everything players need to build their ultimate factory.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://tbod-tycoon-but-one-dropper.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://tbod-tycoon-but-one-dropper.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/17781237968/Tycoon-But-One-Dropper",
+  heroVideoId: "c6yGcoQmLKA",
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
